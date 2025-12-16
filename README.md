@@ -94,9 +94,9 @@ int main() {
 
     return 0;
 }
-
+```
 Task 3: 
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -126,9 +126,9 @@ int main() {
 
     return 0;
 }
-
+```
 Task 4: 
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -165,8 +165,9 @@ int main() {
 
     return 0;
 }
-
+```
 Task 5: 
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -205,8 +206,9 @@ int main() {
 
     return 0;
 }
-
+```
 Task 6: 
+```
 #include <iostream>
 #include <vector>
 #include <unordered_set>
@@ -243,7 +245,8 @@ int main() {
 
     return 0;
 }
-
-
 ```
+
+
+
 video: https://youtu.be/HjynH29D1NE
