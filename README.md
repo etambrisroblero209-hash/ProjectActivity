@@ -1,6 +1,7 @@
-# ProjectActivity
+ProjectActivity
 
 Task 1: 
+
 #include <iostream>
 #include <vector>
 #include <unordered_set>
@@ -66,7 +67,6 @@ output: Jill Huang
 
 Task 2: 
 Formula used: N * (N + 1) / 2
-
 
 #include <iostream>
 #include <vector>
