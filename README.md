@@ -1,7 +1,7 @@
 #ProjectActivity
 
 Task 1: 
-'''cpp
+```cpp
 #include <iostream>
 #include <vector>
 #include <unordered_set>
@@ -60,8 +60,7 @@ int main() {
     }
 
     return 0;
-} 
-'''cpp
+}
 
 output: Jill Huang
         Wanda Vakulskas
