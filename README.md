@@ -61,13 +61,14 @@ int main() {
 
     return 0;
 } 
-
+```
 output: Jill Huang
         Wanda Vakulskas
-
+```
 Task 2: 
+```
 Formula used: N * (N + 1) / 2
-
+```
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -244,5 +245,5 @@ int main() {
 }
 
 
-'''cpp
+```
 video: https://youtu.be/HjynH29D1NE
